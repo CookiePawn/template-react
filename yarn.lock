@@ -960,6 +960,14 @@ enhanced-resolve@^5.15.0:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
 
+env-cmd@^10.1.0:
+  version "10.1.0"
+  resolved "https://registry.yarnpkg.com/env-cmd/-/env-cmd-10.1.0.tgz#c7f5d3b550c9519f137fdac4dd8fb6866a8c8c4b"
+  integrity sha512-mMdWTT9XKN7yNth/6N6g2GuKuJTsKMDHlQFUDacb/heQRRWOTIZ42t1rMHnQu4jYxU1ajdTeJM+9eEETlqToMA==
+  dependencies:
+    commander "^4.0.0"
+    cross-spawn "^7.0.0"
+
 es-abstract@^1.17.5, es-abstract@^1.23.2, es-abstract@^1.23.3, es-abstract@^1.23.5, es-abstract@^1.23.6, es-abstract@^1.23.9:
   version "1.23.9"
   resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.23.9.tgz#5b45994b7de78dada5c1bebf1379646b32b9d606"
